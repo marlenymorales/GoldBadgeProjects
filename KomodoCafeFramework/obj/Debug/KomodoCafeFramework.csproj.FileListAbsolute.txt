@@ -1,0 +1,7 @@
+C:\Users\marle\source\repos\GoldBadgeProjects\KomodoCafeFramework\obj\Debug\KomodoCafeFramework.csproj.AssemblyReference.cache
+C:\Users\marle\source\repos\GoldBadgeProjects\KomodoCafeFramework\obj\Debug\KomodoCafeFramework.csproj.CoreCompileInputs.cache
+C:\Users\marle\source\repos\GoldBadgeProjects\KomodoCafeFramework\bin\Debug\KomodoCafeFramework.exe.config
+C:\Users\marle\source\repos\GoldBadgeProjects\KomodoCafeFramework\bin\Debug\KomodoCafeFramework.exe
+C:\Users\marle\source\repos\GoldBadgeProjects\KomodoCafeFramework\bin\Debug\KomodoCafeFramework.pdb
+C:\Users\marle\source\repos\GoldBadgeProjects\KomodoCafeFramework\obj\Debug\KomodoCafeFramework.exe
+C:\Users\marle\source\repos\GoldBadgeProjects\KomodoCafeFramework\obj\Debug\KomodoCafeFramework.pdb

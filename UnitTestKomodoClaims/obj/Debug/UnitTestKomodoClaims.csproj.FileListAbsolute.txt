@@ -1,0 +1,16 @@
+C:\Users\marle\source\repos\GoldBadgeProjects\UnitTestKomodoClaims\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\marle\source\repos\GoldBadgeProjects\UnitTestKomodoClaims\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\marle\source\repos\GoldBadgeProjects\UnitTestKomodoClaims\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\marle\source\repos\GoldBadgeProjects\UnitTestKomodoClaims\bin\Debug\UnitTestKomodoClaims.dll
+C:\Users\marle\source\repos\GoldBadgeProjects\UnitTestKomodoClaims\bin\Debug\UnitTestKomodoClaims.pdb
+C:\Users\marle\source\repos\GoldBadgeProjects\UnitTestKomodoClaims\bin\Debug\KomodoClaims.exe
+C:\Users\marle\source\repos\GoldBadgeProjects\UnitTestKomodoClaims\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\marle\source\repos\GoldBadgeProjects\UnitTestKomodoClaims\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\marle\source\repos\GoldBadgeProjects\UnitTestKomodoClaims\bin\Debug\KomodoClaims.pdb
+C:\Users\marle\source\repos\GoldBadgeProjects\UnitTestKomodoClaims\bin\Debug\KomodoClaims.exe.config
+C:\Users\marle\source\repos\GoldBadgeProjects\UnitTestKomodoClaims\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\marle\source\repos\GoldBadgeProjects\UnitTestKomodoClaims\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\marle\source\repos\GoldBadgeProjects\UnitTestKomodoClaims\obj\Debug\UnitTestKomodoClaims.csproj.AssemblyReference.cache
+C:\Users\marle\source\repos\GoldBadgeProjects\UnitTestKomodoClaims\obj\Debug\UnitTestKomodoClaims.csproj.CoreCompileInputs.cache
+C:\Users\marle\source\repos\GoldBadgeProjects\UnitTestKomodoClaims\obj\Debug\UnitTestKomodoClaims.dll
+C:\Users\marle\source\repos\GoldBadgeProjects\UnitTestKomodoClaims\obj\Debug\UnitTestKomodoClaims.pdb

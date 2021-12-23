@@ -1,0 +1,14 @@
+C:\Users\marle\source\repos\GoldBadgeProjects\KomodoCafe\bin\Debug\netcoreapp3.1\KomodoCafe.exe
+C:\Users\marle\source\repos\GoldBadgeProjects\KomodoCafe\bin\Debug\netcoreapp3.1\KomodoCafe.deps.json
+C:\Users\marle\source\repos\GoldBadgeProjects\KomodoCafe\bin\Debug\netcoreapp3.1\KomodoCafe.runtimeconfig.json
+C:\Users\marle\source\repos\GoldBadgeProjects\KomodoCafe\bin\Debug\netcoreapp3.1\KomodoCafe.runtimeconfig.dev.json
+C:\Users\marle\source\repos\GoldBadgeProjects\KomodoCafe\bin\Debug\netcoreapp3.1\KomodoCafe.dll
+C:\Users\marle\source\repos\GoldBadgeProjects\KomodoCafe\bin\Debug\netcoreapp3.1\KomodoCafe.pdb
+C:\Users\marle\source\repos\GoldBadgeProjects\KomodoCafe\obj\Debug\netcoreapp3.1\KomodoCafe.csproj.AssemblyReference.cache
+C:\Users\marle\source\repos\GoldBadgeProjects\KomodoCafe\obj\Debug\netcoreapp3.1\KomodoCafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marle\source\repos\GoldBadgeProjects\KomodoCafe\obj\Debug\netcoreapp3.1\KomodoCafe.AssemblyInfoInputs.cache
+C:\Users\marle\source\repos\GoldBadgeProjects\KomodoCafe\obj\Debug\netcoreapp3.1\KomodoCafe.AssemblyInfo.cs
+C:\Users\marle\source\repos\GoldBadgeProjects\KomodoCafe\obj\Debug\netcoreapp3.1\KomodoCafe.csproj.CoreCompileInputs.cache
+C:\Users\marle\source\repos\GoldBadgeProjects\KomodoCafe\obj\Debug\netcoreapp3.1\KomodoCafe.dll
+C:\Users\marle\source\repos\GoldBadgeProjects\KomodoCafe\obj\Debug\netcoreapp3.1\KomodoCafe.pdb
+C:\Users\marle\source\repos\GoldBadgeProjects\KomodoCafe\obj\Debug\netcoreapp3.1\KomodoCafe.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\marle\source\repos\GoldBadgeProjects\UnitTestCafe\obj\Debug\UnitTestCafe.csproj.AssemblyReference.cache
+C:\Users\marle\source\repos\GoldBadgeProjects\UnitTestCafe\obj\Debug\UnitTestCafe.csproj.CoreCompileInputs.cache
+C:\Users\marle\source\repos\GoldBadgeProjects\UnitTestCafe\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\marle\source\repos\GoldBadgeProjects\UnitTestCafe\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\marle\source\repos\GoldBadgeProjects\UnitTestCafe\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\marle\source\repos\GoldBadgeProjects\UnitTestCafe\bin\Debug\UnitTestCafe.dll
+C:\Users\marle\source\repos\GoldBadgeProjects\UnitTestCafe\bin\Debug\UnitTestCafe.pdb
+C:\Users\marle\source\repos\GoldBadgeProjects\UnitTestCafe\bin\Debug\KomodoCafeFramework.exe
+C:\Users\marle\source\repos\GoldBadgeProjects\UnitTestCafe\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\marle\source\repos\GoldBadgeProjects\UnitTestCafe\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\marle\source\repos\GoldBadgeProjects\UnitTestCafe\bin\Debug\KomodoCafeFramework.pdb
+C:\Users\marle\source\repos\GoldBadgeProjects\UnitTestCafe\bin\Debug\KomodoCafeFramework.exe.config
+C:\Users\marle\source\repos\GoldBadgeProjects\UnitTestCafe\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\marle\source\repos\GoldBadgeProjects\UnitTestCafe\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\marle\source\repos\GoldBadgeProjects\UnitTestCafe\obj\Debug\UnitTestCafe.dll
+C:\Users\marle\source\repos\GoldBadgeProjects\UnitTestCafe\obj\Debug\UnitTestCafe.pdb
